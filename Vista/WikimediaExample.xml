@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Wikimedia>
+	<projects>
+		<project name="Primero" launch= "2001-01-05">
+			<editions>
+				<edition language="English">ingles idioma</edition>
+				<edition language="espaniol">espaniol idioma</edition>
+				<edition language="ruso">ruso idioma</edition>
+		
+			</editions>
+		</project>
+		<project name="Segundo" launch= "2001-01-05">
+			<editions>
+				<edition language="frances">frances idioma</edition>
+				<edition language="italiano">italiano idioma</edition>
+				<edition language="chino">chino idioma</edition>
+		
+			</editions>
+		</project>
+	</projects>
+</Wikimedia>

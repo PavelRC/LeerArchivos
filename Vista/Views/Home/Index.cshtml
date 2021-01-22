@@ -1,0 +1,239 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<script type="text/javascript">miform = document.querySelector('#myForm');
+    window.addEventListener("load", function () {
+        campos(event);
+    }, false);
+
+    function adding() {
+       
+    }
+   
+    function campos() {
+        var array = ["Cantabria", "Asturias", "Galicia", "Andalucia", "Extremadura"];
+       
+        array.sort();
+        for (var i = 0; i < 10; i++) {
+            addOptions("campos", array, i);
+            console.log(i);
+        }
+        
+        
+        
+        
+        
+    }
+    function addOptions(domElement, array, i) {
+        var nm = "campos" + i;
+        var selector = document.getElementById(nm);
+        console.log(selector);
+        var text = "";
+        for (campos in array) {
+            text += "<option value=" + array[campos] + ">" + array[campos]+"</option>";
+            
+        }
+        console.log(text);
+        selector.innerHTML = text;
+        
+    }
+</script>
+
+<div class="container-fluid">
+    
+
+        <div class="row">
+            <div class="col-md-12">
+                <h3>
+                    Seleccion de campos
+                </h3>
+
+                <form action="/Home/Index" method="post" id="myForm">
+                    <div class="row">
+                        <div class="col-md-12">
+
+
+                            <div class="row">
+                                <div class="col-md-5">
+                                    <div class="dropdown p-3 mb-2 bg-primary text-white">
+                                        <select id="campos0" class="form-select form-select-lg mb-3 " aria-label=".form-select-lg example">
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-md-1">
+                                </div>
+                                <div class="col-md-6">
+                                    <h3 class="text-center">
+                                        Id
+                                    </h3>
+                                </div>
+                            </div>
+
+
+                            <div class="row">
+                                <div class="col-md-5">
+                                    <div class="dropdown">
+
+                                        <select id="campos1" class="form-select form-select-lg mb-3 dropdown" aria-label=".form-select-lg example">
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-md-1">
+                                </div>
+                                <div class="col-md-6">
+                                    <h3 class="text-center">
+                                        Name
+                                    </h3>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-5">
+                                    <div class="dropdown">
+
+                                        <select id="campos2" class="form-select form-select-lg mb-3 dropdown" aria-label=".form-select-lg example">
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-md-1">
+                                </div>
+                                <div class="col-md-6">
+                                    <h3 class="text-center">
+                                        Last Name
+                                    </h3>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-5">
+                                    <div class="dropdown">
+
+                                        <select id="campos3" class="form-select form-select-lg mb-3 dropdown" aria-label=".form-select-lg example">
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-md-1">
+                                </div>
+                                <div class="col-md-6">
+                                    <h3 class="text-center">
+                                        Country
+                                    </h3>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-5">
+                                    <div class="dropdown">
+
+                                        <select id="campos4" class="form-select form-select-lg mb-3 dropdown" aria-label=".form-select-lg example">
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-md-1">
+                                </div>
+                                <div class="col-md-6">
+                                    <h3 class="text-center">
+                                        Phone
+                                    </h3>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-5">
+                                    <div class="dropdown">
+
+                                        <select id="campos5" class="form-select form-select-lg mb-3 dropdown" aria-label=".form-select-lg example">
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-md-1">
+                                </div>
+                                <div class="col-md-6">
+                                    <h3 class="text-center">
+                                        Address
+                                    </h3>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-5">
+                                    <div class="dropdown">
+
+                                        <select id="campos6" class="form-select form-select-lg mb-3 dropdown" aria-label=".form-select-lg example">
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-md-1">
+                                </div>
+                                <div class="col-md-6">
+                                    <h3 class="text-center">
+                                        Email
+                                    </h3>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-5">
+                                    <div class="dropdown">
+
+                                        <select id="campos7" class="form-select form-select-lg mb-3 dropdown" aria-label=".form-select-lg example">
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-md-1">
+                                </div>
+                                <div class="col-md-6">
+                                    <h3 class="text-center">
+                                        Date
+                                    </h3>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-5">
+                                    <div class="dropdown">
+
+                                        <select id="campos8" class="form-select form-select-lg mb-3 dropdown" aria-label=".form-select-lg example">
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-md-1">
+                                </div>
+                                <div class="col-md-6">
+                                    <h3 class="text-center">
+                                        DNI
+                                    </h3>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-5">
+                                    <div class="dropdown">
+
+                                        <select id="campos9" class="form-select form-select-lg mb-3 dropdown" aria-label=".form-select-lg example">
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-md-1">
+                                </div>
+                                <div class="col-md-6">
+                                    <h3 class="text-center">
+                                        Postal Code
+                                    </h3>
+                                </div>
+                            </div>
+
+
+
+                            <div class="row">
+                                <div class="col-md-12">
+
+                                    <button type="submit" class="btn btn-success btn-block">
+                                        Enviar
+                                    </button>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </form>
+            </div>
+        </div>
+   
+</div>
+

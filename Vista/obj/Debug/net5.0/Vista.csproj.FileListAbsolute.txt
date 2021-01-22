@@ -1,0 +1,86 @@
+/Users/mac/Projects/Vista/Vista/bin/Debug/net5.0/appsettings.Development.json
+/Users/mac/Projects/Vista/Vista/bin/Debug/net5.0/appsettings.json
+/Users/mac/Projects/Vista/Vista/bin/Debug/net5.0/Vista.deps.json
+/Users/mac/Projects/Vista/Vista/bin/Debug/net5.0/Vista.runtimeconfig.json
+/Users/mac/Projects/Vista/Vista/bin/Debug/net5.0/Vista.runtimeconfig.dev.json
+/Users/mac/Projects/Vista/Vista/bin/Debug/net5.0/Vista.dll
+/Users/mac/Projects/Vista/Vista/bin/Debug/net5.0/ref/Vista.dll
+/Users/mac/Projects/Vista/Vista/bin/Debug/net5.0/Vista.pdb
+/Users/mac/Projects/Vista/Vista/bin/Debug/net5.0/Vista.Views.dll
+/Users/mac/Projects/Vista/Vista/bin/Debug/net5.0/Vista.Views.pdb
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/Vista.csprojAssemblyReference.cache
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/Vista.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/Vista.AssemblyInfoInputs.cache
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/Vista.AssemblyInfo.cs
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/Vista.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/Vista.MvcApplicationPartsAssemblyInfo.cache
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/Vista.RazorAssemblyInfo.cache
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/Vista.RazorAssemblyInfo.cs
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/staticwebassets/Vista.StaticWebAssets.Manifest.cache
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/staticwebassets/Vista.StaticWebAssets.xml
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/scopedcss/bundle/Vista.styles.css
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/Vista.TagHelpers.input.cache
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/Vista.TagHelpers.output.cache
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/Vista.RazorCoreGenerate.cache
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/Vista.RazorTargetAssemblyInfo.cache
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/Vista.RazorTargetAssemblyInfo.cs
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/Vista.Views.pdb
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/Vista.dll
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/ref/Vista.dll
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/Vista.pdb
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/Vista.genruntimeconfig.cache
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/Vista.csproj.CopyComplete
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/Razor/Views/Vista/Index.cshtml.g.cs
+/Users/mac/Projects/Vista/Vista/obj/Debug/net5.0/Razor/Views/Vista/Result.cshtml.g.cs
+D:\Descargas\Vista casi final\Vista\Vista\bin\Debug\net5.0\appsettings.Development.json
+D:\Descargas\Vista casi final\Vista\Vista\bin\Debug\net5.0\appsettings.json
+D:\Descargas\Vista casi final\Vista\Vista\bin\Debug\net5.0\Vista.exe
+D:\Descargas\Vista casi final\Vista\Vista\bin\Debug\net5.0\Vista.deps.json
+D:\Descargas\Vista casi final\Vista\Vista\bin\Debug\net5.0\Vista.runtimeconfig.json
+D:\Descargas\Vista casi final\Vista\Vista\bin\Debug\net5.0\Vista.runtimeconfig.dev.json
+D:\Descargas\Vista casi final\Vista\Vista\bin\Debug\net5.0\Vista.dll
+D:\Descargas\Vista casi final\Vista\Vista\bin\Debug\net5.0\ref\Vista.dll
+D:\Descargas\Vista casi final\Vista\Vista\bin\Debug\net5.0\Vista.pdb
+D:\Descargas\Vista casi final\Vista\Vista\bin\Debug\net5.0\Vista.Views.dll
+D:\Descargas\Vista casi final\Vista\Vista\bin\Debug\net5.0\Vista.Views.pdb
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\Vista.csprojAssemblyReference.cache
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\Vista.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\Vista.AssemblyInfoInputs.cache
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\Vista.AssemblyInfo.cs
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\Vista.csproj.CoreCompileInputs.cache
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\Vista.MvcApplicationPartsAssemblyInfo.cache
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\Vista.RazorAssemblyInfo.cache
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\Vista.RazorAssemblyInfo.cs
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\staticwebassets\Vista.StaticWebAssets.Manifest.cache
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\staticwebassets\Vista.StaticWebAssets.xml
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\scopedcss\bundle\Vista.styles.css
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\Vista.TagHelpers.input.cache
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\Vista.TagHelpers.output.cache
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\Vista.RazorCoreGenerate.cache
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\Razor\Views\Vista\Index.cshtml.g.cs
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\Razor\Views\Vista\Result.cshtml.g.cs
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\Vista.RazorTargetAssemblyInfo.cache
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\Vista.RazorTargetAssemblyInfo.cs
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\Vista.Views.pdb
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\Vista.dll
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\ref\Vista.dll
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\Vista.pdb
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\Vista.genruntimeconfig.cache
+D:\Descargas\Vista casi final\Vista\Vista\obj\Debug\net5.0\Vista.csproj.CopyComplete
+D:\Descargas\Vista casi final\Vista\Vista\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+D:\Descargas\Vista casi final\Vista\Vista\bin\Debug\net5.0\SpreadsheetLight.dll
+D:\Descargas\Vista casi final\Vista\Vista\bin\Debug\net5.0\System.IO.Packaging.dll

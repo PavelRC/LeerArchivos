@@ -1,0 +1,311 @@
+﻿
+@{
+
+}
+@model Vista.Models.CabecerasClass;
+
+
+
+<div class="container-fluid">
+
+
+    <div class="row">
+        <div class="col-md-12">
+            
+            <h3>
+                Seleccion de camposss
+               
+
+            </h3>
+
+            <form action="/Vista/Index" method="post" id="myForm">
+                <div class="row">
+                    <div class="col-md-12">
+
+
+                        <div class="row">
+                            <div class="col-md-5">
+                                <div class="dropdown">
+                                    <select name="Id" class="form-select form-select-lg mb-3 " aria-label=".form-select-lg example">
+                                        <option value="null"> Seleccione C. </option>
+                                        @foreach (var he in Model.Arreglo)
+                                        {
+                                            if (@he != null)
+                                            {
+                                                <text>
+                                                    <option value="@he"> @he</option>
+                                                </text>
+                                            }
+                                        }
+
+
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-1">
+                            </div>
+                            <div class="col-md-6">
+                                <h3 class="text-center">
+                                    Id
+                                </h3>
+                            </div>
+                        </div>
+
+
+                        <div class="row">
+                            <div class="col-md-5">
+                                <div class="dropdown">
+
+                                    <select name="Name" class="form-select form-select-lg mb-3 dropdown" aria-label=".form-select-lg example">
+                                        <option value="null"> Seleccione C. </option>
+                                        @foreach (var he in Model.Arreglo)
+                                        {
+                                            if (@he != null)
+                                            {
+                                                <text>
+                                                    <option value="@he"> @he</option>
+                                                </text>
+                                            }
+                                        }
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-1">
+                            </div>
+                            <div class="col-md-6">
+                                <h3 class="text-center">
+                                    Name
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-5">
+                                <div class="dropdown">
+
+                                    <select name="LastName" class="form-select form-select-lg mb-3 dropdown" aria-label=".form-select-lg example">
+                                        <option value="null"> Seleccione C. </option>
+                                        @foreach (var he in Model.Arreglo)
+                                        {
+                                            if (@he != null)
+                                            {
+                                                <text>
+                                                    <option value="@he"> @he</option>
+                                                </text>
+                                            }
+                                        }
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-1">
+                            </div>
+                            <div class="col-md-6">
+                                <h3 class="text-center">
+                                    Last Name
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-5">
+                                <div class="dropdown">
+
+                                    <select name="Country" class="form-select form-select-lg mb-3 dropdown" aria-label=".form-select-lg example">
+                                        <option value="null"> Seleccione C. </option>
+                                        @foreach (var he in Model.Arreglo)
+                                        {
+                                            if (@he != null)
+                                            {
+                                                <text>
+                                                    <option value="@he"> @he</option>
+                                                </text>
+                                            }
+                                        }
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-1">
+                            </div>
+                            <div class="col-md-6">
+                                <h3 class="text-center">
+                                    Country
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-5">
+                                <div class="dropdown">
+
+                                    <select name="Phone" class="form-select form-select-lg mb-3 dropdown" aria-label=".form-select-lg example">
+                                        <option value="null"> Seleccione C. </option>
+                                        @foreach (var he in Model.Arreglo)
+                                        {
+                                            if (@he != null)
+                                            {
+                                                <text>
+                                                    <option value="@he"> @he</option>
+                                                </text>
+                                            }
+                                        }
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-1">
+                            </div>
+                            <div class="col-md-6">
+                                <h3 class="text-center">
+                                    Phone
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-5">
+                                <div class="dropdown">
+
+                                    <select name="Addres" class="form-select form-select-lg mb-3 dropdown" aria-label=".form-select-lg example">
+                                        <option value="null"> Seleccione C. </option>
+                                        @foreach (var he in Model.Arreglo)
+                                        {
+                                            if (@he != null)
+                                            {
+                                                <text>
+                                                    <option value="@he"> @he</option>
+                                                </text>
+                                            }
+                                        }
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-1">
+                            </div>
+                            <div class="col-md-6">
+                                <h3 class="text-center">
+                                    Address
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-5">
+                                <div class="dropdown">
+
+                                    <select name="Email" class="form-select form-select-lg mb-3 dropdown" aria-label=".form-select-lg example">
+                                        <option value="null"> Seleccione C. </option>
+                                        @foreach (var he in Model.Arreglo)
+                                        {
+                                            if (@he != null)
+                                            {
+                                                <text>
+                                                    <option value="@he"> @he</option>
+                                                </text>
+                                            }
+                                        }
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-1">
+                            </div>
+                            <div class="col-md-6">
+                                <h3 class="text-center">
+                                    Email
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-5">
+                                <div class="dropdown">
+
+                                    <select name="Date" class="form-select form-select-lg mb-3 dropdown" aria-label=".form-select-lg example">
+                                        <option value="null"> Seleccione C. </option>
+                                        @foreach (var he in Model.Arreglo)
+                                        {
+                                            if (@he != null)
+                                            {
+                                                <text>
+                                                    <option value="@he"> @he</option>
+                                                </text>
+                                            }
+                                        }
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-1">
+                            </div>
+                            <div class="col-md-6">
+                                <h3 class="text-center">
+                                    Date
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-5">
+                                <div class="dropdown">
+
+                                    <select name="Dni" class="form-select form-select-lg mb-3 dropdown" aria-label=".form-select-lg example">
+                                        <option value="null"> Seleccione C. </option>
+                                        @foreach (var he in Model.Arreglo)
+                                        {
+                                            if (@he != null)
+                                            {
+                                                <text>
+                                                    <option value="@he"> @he</option>
+                                                </text>
+                                            }
+                                        }
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-1">
+                            </div>
+                            <div class="col-md-6">
+                                <h3 class="text-center">
+                                    DNI
+                                </h3>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-5">
+                                <div class="dropdown">
+
+                                    <select name="PostalCode" class="form-select form-select-lg mb-3 dropdown" aria-label=".form-select-lg example">
+                                        <option value="null"> Seleccione C. </option>
+                                        @foreach (var he in Model.Arreglo)
+                                        {
+                                            if (@he != null)
+                                            {
+                                                <text>
+                                                    <option value="@he"> @he</option>
+                                                </text>
+                                            }
+                                        }
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-1">
+                            </div>
+                            <div class="col-md-6">
+                                <h3 class="text-center">
+                                    Postal Code
+                                </h3>
+                            </div>
+                        </div>
+
+
+
+                        <div class="row">
+                            <div class="col-md-12">
+
+                                <button type="submit" class="btn btn-success btn-block">
+                                    Enviar
+                                </button>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </form>
+        </div>
+    </div>
+
+</div>
+

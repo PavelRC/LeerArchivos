@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hpZr43/bMPtZ/D0i+7uaZCgdjMOUQsGRB7AbKTBWPWwzw4UmnGZnAKaWdFIrO1pzh9AILJgOyCnHxD5HsksD0g==",
+  "success": true,
+  "projectFilePath": "D:\\Descargas\\Vista casi final\\Vista\\Vista\\Vista.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\documentformat.openxml\\2.11.3\\documentformat.openxml.2.11.3.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\spreadsheetlight\\3.5.0\\spreadsheetlight.3.5.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
